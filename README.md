@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dixitparmar19
+- 👋 Hi, I’m Dixit Parmar
 - 👀 I’m interested in designing worldclass technology solutions with my skills & experience
 - 🌱 I’m currently working on embedded system design & development
 - 📫 dixitparmar19@gmail.com
