@@ -8,4 +8,4 @@ dixitparmar19/dixitparmar19 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=GITHUB-USERNAME&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dixitparmar19&label=Profile%20views&color=ce9927&style=flat" alt="dixitparmar19" /> </p>
